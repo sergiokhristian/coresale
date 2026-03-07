@@ -1,0 +1,25 @@
+{
+  "name": "coresale",
+  "version": "1.0.0",
+  "description": "test test",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./public -p 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiokhristian/coresale.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sergiokhristian/coresale/issues"
+  },
+  "homepage": "https://github.com/sergiokhristian/coresale#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
