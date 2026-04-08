@@ -6,3 +6,4 @@ this is a new change on the read me
 read me needs to be pulled first
 the changes in the ISSUES have not yet implemented
 need to update the API
+needs to watch videos to update 
